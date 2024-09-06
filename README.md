@@ -1,4 +1,4 @@
-# Finding Donors for CharityML (Supervised Learning)
+# Finding Donors (Supervised Learning)
 
 ## Overview
 This machine learning project involves evaluating and optimizing various algorithms to predict whether individuals make more than $50,000 based on census data. The project covers model selection, performance evaluation, hyperparameter tuning, and feature importance analysis to identify the best model and improve its performance.
